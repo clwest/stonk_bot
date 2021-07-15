@@ -44,4 +44,4 @@ def webhook():
     send_msg(response, sender)
     return "OK", 200
 
-# TWILIO_ACCOUNT,  TWILIO_TOKEN
+
